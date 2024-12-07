@@ -5,15 +5,17 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier .",
     "pre-commit": "lint-staged",
-    "javascripting": "javascripting"
+    "functional-javascript": "functional-javascript-workshop",
+    "javascripting": "javascripting",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "functional-javascript-workshop": "^1.0.6",
     "javascripting": "^2.7.4"
   },
   "devDependencies": {
