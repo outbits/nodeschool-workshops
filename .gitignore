@@ -1,3 +1,6 @@
+# git hooks
+.hooks/
+
 # Logs
 logs
 *.log
