@@ -7,16 +7,18 @@
   "scripts": {
     "format": "prettier .",
     "pre-commit": "lint-staged",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "functional-javascript": "functional-javascript-workshop",
     "javascripting": "javascripting",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "learnyounode": "learnyounode"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "functional-javascript-workshop": "^1.0.6",
-    "javascripting": "^2.7.4"
+    "javascripting": "^2.7.4",
+    "learnyounode": "^4.2.2"
   },
   "devDependencies": {
     "lint-staged": "^15.2.10",
