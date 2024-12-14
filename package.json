@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "functional-javascript": "functional-javascript-workshop",
     "javascripting": "javascripting",
-    "learnyounode": "learnyounode"
+    "learnyounode": "learnyounode",
+    "stream-adventure": "stream-adventure"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +19,8 @@
   "dependencies": {
     "functional-javascript-workshop": "^1.0.6",
     "javascripting": "^2.7.4",
-    "learnyounode": "^4.2.2"
+    "learnyounode": "^4.2.2",
+    "stream-adventure": "^4.3.2"
   },
   "devDependencies": {
     "lint-staged": "^15.2.10",
